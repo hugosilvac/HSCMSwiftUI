@@ -11,7 +11,13 @@ import SwiftUI
 struct HSCMSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Routes()
         }
     }
 }
+
+
+
+// @Binding
+// @Published
+// @StateObject
