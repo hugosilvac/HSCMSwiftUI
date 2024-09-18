@@ -12,6 +12,7 @@ class Coordinator: ObservableObject {
     @Published var selectTab: TabIcon = .Discover
     
     //Armazena as instâncias da view
+    private(set) var discoverView = DiscoverView()
     private(set) var contentView = ContentView()
     
     func selectBar(_ tab: TabIcon) {
@@ -21,11 +22,11 @@ class Coordinator: ObservableObject {
     func currentView() -> some View {
         switch selectTab {
         case .Discover:
-            return contentView
+            return AnyView(discoverView)
         case .Characters:
-            return contentView
+            return AnyView(contentView)
         case .Favorite:
-            return contentView
+            return AnyView(contentView)
         }
     }
 }

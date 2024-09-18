@@ -14,6 +14,17 @@
 		E6A59C012C99AF9D000ED4D6 /* Routes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C002C99AF9D000ED4D6 /* Routes.swift */; };
 		E6A59C032C99AFC3000ED4D6 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C022C99AFC3000ED4D6 /* Coordinator.swift */; };
 		E6A59C062C99B09E000ED4D6 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C052C99B09E000ED4D6 /* TabBarView.swift */; };
+		E6A59C0C2C99F6BB000ED4D6 /* DiscoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C0B2C99F6BB000ED4D6 /* DiscoverView.swift */; };
+		E6A59C0E2C99FE37000ED4D6 /* DiscoverViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C0D2C99FE37000ED4D6 /* DiscoverViewModel.swift */; };
+		E6A59C112C99FEDB000ED4D6 /* InfoRequestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C102C99FEDB000ED4D6 /* InfoRequestModel.swift */; };
+		E6A59C132C99FF1E000ED4D6 /* MovieModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C122C99FF1E000ED4D6 /* MovieModel.swift */; };
+		E6A59C162C9A0496000ED4D6 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C152C9A0496000ED4D6 /* ApiService.swift */; };
+		E6A59C192C9B183C000ED4D6 /* CarouselDiscover.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C182C9B183C000ED4D6 /* CarouselDiscover.swift */; };
+		E6A59C1D2C9B1D38000ED4D6 /* BentonSans.otf in Resources */ = {isa = PBXBuildFile; fileRef = E6A59C1C2C9B1D37000ED4D6 /* BentonSans.otf */; };
+		E6A59C212C9B433E000ED4D6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C202C9B433E000ED4D6 /* Constants.swift */; };
+		E6A59C232C9B4459000ED4D6 /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C222C9B4459000ED4D6 /* ImageData.swift */; };
+		E6A59C252C9B460B000ED4D6 /* ManagerImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C242C9B460B000ED4D6 /* ManagerImage.swift */; };
+		E6A59C272C9B4764000ED4D6 /* CarouselImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A59C262C9B4764000ED4D6 /* CarouselImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +36,18 @@
 		E6A59C002C99AF9D000ED4D6 /* Routes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routes.swift; sourceTree = "<group>"; };
 		E6A59C022C99AFC3000ED4D6 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		E6A59C052C99B09E000ED4D6 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		E6A59C0B2C99F6BB000ED4D6 /* DiscoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverView.swift; sourceTree = "<group>"; };
+		E6A59C0D2C99FE37000ED4D6 /* DiscoverViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverViewModel.swift; sourceTree = "<group>"; };
+		E6A59C102C99FEDB000ED4D6 /* InfoRequestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoRequestModel.swift; sourceTree = "<group>"; };
+		E6A59C122C99FF1E000ED4D6 /* MovieModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieModel.swift; sourceTree = "<group>"; };
+		E6A59C152C9A0496000ED4D6 /* ApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
+		E6A59C182C9B183C000ED4D6 /* CarouselDiscover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselDiscover.swift; sourceTree = "<group>"; };
+		E6A59C1C2C9B1D37000ED4D6 /* BentonSans.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BentonSans.otf; sourceTree = "<group>"; };
+		E6A59C1E2C9B1F03000ED4D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E6A59C202C9B433E000ED4D6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		E6A59C222C9B4459000ED4D6 /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
+		E6A59C242C9B460B000ED4D6 /* ManagerImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagerImage.swift; sourceTree = "<group>"; };
+		E6A59C262C9B4764000ED4D6 /* CarouselImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +80,12 @@
 		E61BB9722C98D05600C0E8EF /* HSCMSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				E6A59C1F2C9B4326000ED4D6 /* Configuration */,
+				E6A59C1E2C9B1F03000ED4D6 /* Info.plist */,
+				E6A59C1A2C9B1D15000ED4D6 /* Assets */,
+				E6A59C142C9A0485000ED4D6 /* Services */,
+				E6A59C0F2C99FEA2000ED4D6 /* Models */,
+				E6A59C072C99D14D000ED4D6 /* Features */,
 				E6A59BFC2C99AF05000ED4D6 /* Utils */,
 				E61BB9732C98D05600C0E8EF /* HSCMSwiftUIApp.swift */,
 				E61BB9752C98D05600C0E8EF /* ContentView.swift */,
@@ -98,6 +127,76 @@
 				E6A59C052C99B09E000ED4D6 /* TabBarView.swift */,
 			);
 			path = TabBar;
+			sourceTree = "<group>";
+		};
+		E6A59C072C99D14D000ED4D6 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C082C99D167000ED4D6 /* Discover */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		E6A59C082C99D167000ED4D6 /* Discover */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C172C9B1815000ED4D6 /* Components */,
+				E6A59C0B2C99F6BB000ED4D6 /* DiscoverView.swift */,
+				E6A59C0D2C99FE37000ED4D6 /* DiscoverViewModel.swift */,
+			);
+			path = Discover;
+			sourceTree = "<group>";
+		};
+		E6A59C0F2C99FEA2000ED4D6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C102C99FEDB000ED4D6 /* InfoRequestModel.swift */,
+				E6A59C122C99FF1E000ED4D6 /* MovieModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E6A59C142C9A0485000ED4D6 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C152C9A0496000ED4D6 /* ApiService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		E6A59C172C9B1815000ED4D6 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C182C9B183C000ED4D6 /* CarouselDiscover.swift */,
+				E6A59C262C9B4764000ED4D6 /* CarouselImage.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		E6A59C1A2C9B1D15000ED4D6 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C1B2C9B1D1F000ED4D6 /* Fonts */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		E6A59C1B2C9B1D1F000ED4D6 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C1C2C9B1D37000ED4D6 /* BentonSans.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		E6A59C1F2C9B4326000ED4D6 /* Configuration */ = {
+			isa = PBXGroup;
+			children = (
+				E6A59C202C9B433E000ED4D6 /* Constants.swift */,
+				E6A59C222C9B4459000ED4D6 /* ImageData.swift */,
+				E6A59C242C9B460B000ED4D6 /* ManagerImage.swift */,
+			);
+			path = Configuration;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E61BB97B2C98D05700C0E8EF /* Preview Assets.xcassets in Resources */,
+				E6A59C1D2C9B1D38000ED4D6 /* BentonSans.otf in Resources */,
 				E61BB9782C98D05700C0E8EF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -170,11 +270,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6A59C272C9B4764000ED4D6 /* CarouselImage.swift in Sources */,
+				E6A59C132C99FF1E000ED4D6 /* MovieModel.swift in Sources */,
 				E6A59C032C99AFC3000ED4D6 /* Coordinator.swift in Sources */,
 				E61BB9762C98D05600C0E8EF /* ContentView.swift in Sources */,
 				E6A59C012C99AF9D000ED4D6 /* Routes.swift in Sources */,
+				E6A59C192C9B183C000ED4D6 /* CarouselDiscover.swift in Sources */,
+				E6A59C232C9B4459000ED4D6 /* ImageData.swift in Sources */,
+				E6A59C0E2C99FE37000ED4D6 /* DiscoverViewModel.swift in Sources */,
 				E6A59C062C99B09E000ED4D6 /* TabBarView.swift in Sources */,
+				E6A59C162C9A0496000ED4D6 /* ApiService.swift in Sources */,
 				E61BB9742C98D05600C0E8EF /* HSCMSwiftUIApp.swift in Sources */,
+				E6A59C0C2C99F6BB000ED4D6 /* DiscoverView.swift in Sources */,
+				E6A59C112C99FEDB000ED4D6 /* InfoRequestModel.swift in Sources */,
+				E6A59C212C9B433E000ED4D6 /* Constants.swift in Sources */,
+				E6A59C252C9B460B000ED4D6 /* ManagerImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +421,7 @@
 				DEVELOPMENT_TEAM = VKG286WT9K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HSCMSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -340,6 +451,7 @@
 				DEVELOPMENT_TEAM = VKG286WT9K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HSCMSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
